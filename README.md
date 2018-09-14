@@ -151,67 +151,7 @@ Allows the use of ST3 to pop up when composing git commit messages, the advantag
 
 ##### User Preferences
 
-```
-{
-  "added_words":
-  [
-    "datatypes",
-    "workflow",
-    "plugin",
-    "viewport",
-    "Udacity"
-  ],
-  "atomic_save": "false",
-  "binary_file_patterns":
-  [
-    "node_modules/*",
-    "bower_components/*"
-  ],
-  "bold_folder_labels": true,
-  "caret_style": "phase",
-  "color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
-  "fade_fold_buttons": false,
-  "folder_exclude_patterns":
-  [
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    ".sass-cache"
-  ],
-  "font_options":
-  [
-    "gray_antialias"
-  ],
-  "font_size": 14,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "indent_guide_options":
-  [
-    "draw_normal",
-    "draw_active"
-  ],
-  "line_padding_bottom": 1,
-  "line_padding_top": 1,  "rulers":
-  [
-    80,
-    100
-  ],
-  "tab_size": 2,
-  "theme": "Boxy Tomorrow.sublime-theme",
-  "theme_primer_sidebar_tree_large": true,
-  "theme_primer_tab_active_green": true,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "word_wrap": true,
-  "wrap_width": 80
-}
-
-```
+[See here](./Preferences.sublime-settings.txt)
 
 ### 8. Customize things
 
