@@ -8,23 +8,28 @@ Hello world!
 
 <!-- MarkdownTOC -->
 
-1. Prep OS X
-2. Prep Terminal.app
+- 1. Prep OS X
+- 2. Prep Terminal.app
   - MDO configs
   - Udacity configs
-  - Brewfile
-3. Secure GitHub access
-4. GitHub development setup
-5. Setup Ruby
-6. Additional dependencies
-7. Setup Sublime Text 3
+- 3. Secure GitHub access
+- 4. GitHub development setup
+- 5. Setup Ruby
+- 6. Additional dependencies
+- 7. Setup Sublime Text 3
   - Enable Command Line Tool `subl` for Sublime Text
+  - Install Sublime Merge
   - Use Sublime as the default editor for git
   - Setup Package Control & Packages
     - User Preferences
-8. Customize things
+- 8. Customize things
   - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
-9. Security
+- 9. Security
+- 10. Install GitHub Desktop App
+- Use it yourself
+- Supplementary Material
+- Works on my machine
+
 <!-- /MarkdownTOC -->
 
 
@@ -204,6 +209,10 @@ Quick guide:
   - [HTTPS Everywhere Google Chrome Extension](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en)
   - [Activate Stealth Mode on macos](https://support.apple.com/kb/PH25606?locale=en_US) for macos.
 - [Remove Adobe Flash from macos](https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-mac-os.html)
+
+### 10. Install GitHub Desktop App
+
+Install [GitHub Desktop App](https://desktop.github.com/)
 
 ## Use it yourself
 
