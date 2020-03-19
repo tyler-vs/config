@@ -22,6 +22,7 @@ Hello world!
   - Use Sublime as the default editor for git
   - Setup Package Control & Packages
     - User Preferences
+    - Add right click to open ST3 and Sublime Merge Options
 - 8. Customize things
   - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
 - 9. Security
@@ -168,6 +169,19 @@ Can CMD + Shift + P > Install Package > type in the below plugins
 ##### User Preferences
 
 Add my user preferences. [Check file](/Preferences.sublime-settings)
+
+#### Add right click to open ST3 and Sublime Merge Options
+
+Follow tutorial [here](http://charles.lescampeurs.org/2012/06/18/right-click-open-with-sublime-text-2)
+
+1. Open Automator and create a new service
+2. Select "files or folder" option for "Services receives selected" option
+3. Left pane, select "Open Finder Items" and drag to the right pane.
+4. New in "Open with" action, select Sublime Text 3
+5. Save the new service (i.e. "Open with Sublime Text 3")
+6. Try it in Finder!
+
+Repeat steps to add Sublime Merge as well.
 
 ### 8. Customize things
 
