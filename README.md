@@ -14,6 +14,7 @@ Hello world!
   - Udacity configs
 - 3. Secure GitHub access
 - 4. GitHub development setup
+  - Install GitHub Desktop
 - 5. Setup Ruby
 - 6. Additional dependencies
 - 7. Setup Sublime Text 3
@@ -76,6 +77,9 @@ Can also follow along setup for Udacity's terminal configuration used in the lea
 *Go to [6. Additional dependencies](6.-additional-dependencies) section below before reading this section.*
 
 Download git via Homebrew `brew install git`, or see [git docs](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git) for alternative installation guides.
+
+
+#### Install [GitHub Desktop](https://desktop.github.com/)
 
 
 ### 5. Setup Ruby
