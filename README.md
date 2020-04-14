@@ -23,11 +23,12 @@ Hello world!
   - Use Sublime as the default editor for git
   - Setup Package Control & Packages
     - User Preferences
-    - Add right click to open ST3 and Sublime Merge Options
+  - Add right click to open ST3 and Sublime Merge Options
 - 8. Customize things
   - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
 - 9. Security
 - 10. Install GitHub Desktop App
+- 11. Install Theme Kit
 - Use it yourself
 - Supplementary Material
 - Works on my machine
@@ -231,6 +232,10 @@ Quick guide:
 ### 10. Install GitHub Desktop App
 
 Install [GitHub Desktop App](https://desktop.github.com/)
+
+### 11. Install Theme Kit
+
+View guide: <https://shopify.github.io/themekit/#installation>.
 
 ## Use it yourself
 
