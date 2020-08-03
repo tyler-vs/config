@@ -29,12 +29,12 @@ Hello world!
 - 9. Security
 - 10. Install GitHub Desktop App
 - 11. Install Theme Kit
+- 12. Install Chrome Apps
 - Use it yourself
 - Supplementary Material
 - Works on my machine
 
 <!-- /MarkdownTOC -->
-
 
 
 | File | Description |
@@ -236,6 +236,14 @@ Install [GitHub Desktop App](https://desktop.github.com/)
 ### 11. Install Theme Kit
 
 View guide: <https://shopify.github.io/themekit/#installation>.
+
+### 12. Install Chrome Apps
+
+- [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US)
+- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
+- [Ghostery – Privacy Ad Blocker](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
+
 
 ## Use it yourself
 
