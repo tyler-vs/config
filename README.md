@@ -181,7 +181,7 @@ Add my user preferences. [Check file](/Preferences.sublime-settings)
 
 A Language Server Protocol (LSP) is a specification about the communication protocols for use between text editors or IDEs and language servers - tools which provide language-specific features like auto-complete, go to definition, or documentation on hover. 
 
-Install Shopify theme-check LSP server. [Guide for Sublime text here](https://github.com/Shopify/theme-check/wiki/Sublime)
+Install Shopify [theme-check](https://github.com/Shopify/theme-check) LSP server. [Guide for Sublime text here](https://github.com/Shopify/theme-check/wiki/Sublime)
 
 Resources:
 
