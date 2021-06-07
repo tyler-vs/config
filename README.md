@@ -4,7 +4,7 @@
 
 Hello world!
 
-## Contents
+## Table of Contents
 
 <!-- MarkdownTOC -->
 
@@ -17,12 +17,14 @@ Hello world!
   - Install GitHub Desktop
 - 5. Setup Ruby
 - 6. Additional dependencies
-- 7. Setup Sublime Text 3
+- 7. Setup Sublime Text 4
   - Enable Command Line Tool `subl` for Sublime Text
   - Install Sublime Merge
   - Use Sublime as the default editor for git
   - Setup Package Control & Packages
     - User Preferences
+    - Set up language servers
+    - ESLINT
   - Add right click to open ST3 and Sublime Merge Options
 - 8. Customize things
   - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
@@ -105,7 +107,7 @@ Download git via Homebrew `brew install git`, or see [git docs](https://git-scm.
 - [Homebrew Commands Cheatsheet](https://devhints.io/homebrew).
 
 
-### 7. Setup Sublime Text 3
+### 7. Setup Sublime Text 4
 
 #### Enable Command Line Tool `subl` for Sublime Text
 
@@ -174,6 +176,22 @@ Can CMD + Shift + P > Install Package > type in the below plugins
 ##### User Preferences
 
 Add my user preferences. [Check file](/Preferences.sublime-settings)
+
+##### Set up language servers
+
+A Language Server Protocol (LSP) is a specification about the communication protocols for use between text editors or IDEs and language servers - tools which provide language-specific features like auto-complete, go to definition, or documentation on hover. 
+
+Install Shopify theme-check LSP server. [Guide for Sublime text here](https://github.com/Shopify/theme-check/wiki/Sublime)
+
+Resources:
+
+- <https://langserver.org/>
+- <https://lsp.sublimetext.io/>
+- <https://lsp.readthedocs.io/en/latest/>
+
+##### ESLINT
+
+ToDo Directions for setting up ESLINT.
 
 #### Add right click to open ST3 and Sublime Merge Options
 
