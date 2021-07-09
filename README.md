@@ -33,6 +33,7 @@ Hello world!
 - 10. Install GitHub Desktop App
 - 11. Install ~~Theme Kit~~ Shopify CLI
 - 12. Install Chrome Apps
+- 13. GitHub CLI
 - Use it yourself
 - Supplementary Material
 - Works on my machine
@@ -290,6 +291,27 @@ Full guide: https://shopify.dev/themes/tools/cli/installation
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
 - [Ghostery – Privacy Ad Blocker](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
+
+### 13. GitHub CLI
+
+Checkout full guide: https://cli.github.com/manual/
+
+Install via Homebrew
+
+```
+brew install gh
+```
+
+Configure preferred text editor 
+
+```
+gh config set editor "subl -n -w"
+```
+
+```
+$ git config --global core.editor "subl -n -w"
+```
+
 
 
 ## Use it yourself
