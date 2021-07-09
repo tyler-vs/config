@@ -20,6 +20,7 @@ Hello world!
 - 7. Setup Sublime Text 4
   - Enable Command Line Tool `subl` for Sublime Text
   - Install Sublime Merge
+  - Add Source Code Pro font
   - Use Sublime as the default editor for git
   - Setup Package Control & Packages
     - User Preferences
@@ -30,7 +31,7 @@ Hello world!
   - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
 - 9. Security
 - 10. Install GitHub Desktop App
-- 11. Install Theme Kit
+- 11. Install ~~Theme Kit~~ Shopify CLI
 - 12. Install Chrome Apps
 - Use it yourself
 - Supplementary Material
@@ -128,6 +129,17 @@ Add support for `smerge` command in `.bash_profile`
 PATH="/Applications/Sublime Merge.app/Contents/SharedSupport/bin:{$PATH}"
 export PATH
 
+```
+
+#### Add Source Code Pro font
+
+Download here: https://fonts.google.com/specimen/Source+Code+Pro
+
+Update User Settings:
+
+```
+"font_face": "Source Code Pro",
+"font_size": 12,
 ```
 
 #### Use Sublime as the default editor for git
@@ -251,9 +263,26 @@ Quick guide:
 
 Install [GitHub Desktop App](https://desktop.github.com/)
 
-### 11. Install Theme Kit
+### 11. Install ~~Theme Kit~~ Shopify CLI
 
-View guide: <https://shopify.github.io/themekit/#installation>.
+~~View guide: <https://shopify.github.io/themekit/#installation>.~~
+
+Download Shopify CLI which has mostly replaced Theme Kit tool.
+
+Download via Homebrew
+
+```
+brew tap shopify/shopify
+brew install shopify-cli
+```
+
+Verify
+
+```
+shopify version
+```
+
+Full guide: https://shopify.dev/themes/tools/cli/installation
 
 ### 12. Install Chrome Apps
 
