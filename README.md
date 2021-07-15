@@ -259,6 +259,8 @@ Quick guide:
   - [HTTPS Everywhere Google Chrome Extension](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en)
   - [Activate Stealth Mode on macos](https://support.apple.com/kb/PH25606?locale=en_US) for macos.
 - [Remove Adobe Flash from macos](https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-mac-os.html)
+- [Kamino extension for cloning GitHub issues](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf/related)
+- [Shopify theme inspector](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp)
 
 ### 10. Install GitHub Desktop App
 
