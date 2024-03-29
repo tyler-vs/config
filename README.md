@@ -208,7 +208,7 @@ ToDo Directions for setting up ESLINT.
 
 #### Add right click to open ST3 and Sublime Merge Options
 
-Follow tutorial [here](http://charles.lescampeurs.org/2012/06/18/right-click-open-with-sublime-text-2)
+Follow tutorial [here](https://www.youtube.com/watch?v=dcjevVMhpoM)
 
 1. Open Automator and create a new service
 2. Select "files or folder" option for "Services receives selected" option
