@@ -4,43 +4,6 @@
 
 Hello world!
 
-## Table of Contents
-
-<!-- MarkdownTOC -->
-
-- 1. Prep OS X
-- 2. Prep Terminal.app
-  - MDO configs
-  - Udacity configs
-- 3. Secure GitHub access
-- 4. GitHub development setup
-  - Install GitHub Desktop
-- 5. Setup Ruby
-- 6. Additional dependencies
-- 7. Setup Sublime Text 4
-  - Enable Command Line Tool `subl` for Sublime Text
-  - Install Sublime Merge
-  - Add Source Code Pro font
-  - Use Sublime as the default editor for git
-  - Setup Package Control & Packages
-    - User Preferences
-    - Set up language servers
-    - ESLINT
-  - Add right click to open ST3 and Sublime Merge Options
-- 8. Customize things
-  - How to Enable Tab Key for Navigating Mac Dialog Boxes & Buttons
-- 9. Security
-- 10. Install GitHub Desktop App
-- 11. Install ~~Theme Kit~~ Shopify CLI
-- 12. Install Chrome Apps
-- 13. GitHub CLI
-- Use it yourself
-- Supplementary Material
-- Works on my machine
-
-<!-- /MarkdownTOC -->
-
-
 | File | Description |
 | --- | --- |
 | `.bash_profile` | Customizes the Terminal.app prompt and echoes the currently checked out Git branch. |
