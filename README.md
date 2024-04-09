@@ -277,6 +277,17 @@ gh config set editor "subl -n -w"
 $ git config --global core.editor "subl -n -w"
 ```
 
+### 14. VisualStudio Code
+
+TODO: Add here.
+
+### Add GitHub commit template
+
+See here. Just ask Gemini how to install it locally. Run the code.
+
+```
+git config --local commit.template .git_commit_template.txt
+```
 
 
 ## Use it yourself
